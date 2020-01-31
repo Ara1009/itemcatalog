@@ -1,4 +1,4 @@
-# UDACITY CATALOG PROJECT
+# CATALOG PROJECT
 
 # Requirements 
 
